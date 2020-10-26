@@ -92,7 +92,7 @@ a.home-link:link, a.home-link:visited, .home-text {
 }
 
 a.home-link:hover, a.home-link:active {
-  color: var(--tw-color-blue-faded);
+  color: #FFDDDD;
 }
 
 span.Icon--caretDown {
@@ -118,7 +118,7 @@ a.nav-link:link, a.nav-link:visited {
 }
 
 a.nav-link:hover, a.nav-link:active {
-  color: var(--tw-color-blue-faded);
+  color: #FFDDDD;
 }
 
 .home-link {
@@ -172,7 +172,7 @@ a.foot-link:link, a.foot-link:visited {
 }
 
 a.foot-link:hover, a.foot-link:active {
-  color: var(--tw-color-blue-faded);
+  color: #FFDDDD;
   text-decoration: none;
 }
 
@@ -284,7 +284,7 @@ br {
   }
 
   span.Icon--caretDown:hover {
-    color: var(--tw-color-blue-faded);
+    color: #FFDDDD;
   }
 
   .nav-menu {
@@ -297,7 +297,7 @@ br {
     line-height: var(--feather-line-height-jumbo);
     padding: var(--feather-grid-medium) 0;
     margin: 0;
-    border-bottom: 1px solid var(--tw-color-blue-faded);
+    border-bottom: 1px solid #FFDDDD;
   }
 
   .list-end {
