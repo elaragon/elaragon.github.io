@@ -70,11 +70,11 @@
     min-width: 183px;
     line-height: calc(1.8rem - (1px * 2));
     padding: 0 var(--feather-grid-medium);
-    background-color: #FFFFFF;
+    background-color: white;
 }
 
 .search-box {
-    color: white;
+    color: black;
     border: 0;
     min-width: 90%;
     line-height: calc(1.8rem - (1px * 2));
